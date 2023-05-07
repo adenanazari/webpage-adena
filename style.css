@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#banner{
+    background: url(SL-103020-37400-03.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 150vh;
+}
+.text-type{
+    text-align: start;
+    margin:auto;
+    color: white;
+    padding-top: 50px;
+    text-shadow: 0 0 6 black;
+    margin-right: 5%;
+    marging-left:5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.text-type h1{
+    font-size: 50px;
+    margin-top: 0.5Spx;
+    margin-bottom: 2px;S
+}
+.text-type h2{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 2px;S
+}
+.text-type p{
+    font-size: 25px;
+    font-style: Times New Roman;
+    text-shadow: 0 0 5 black;
+}
+.p-files{
+  display: block;
+  justify-content: start;
+  padding-left: 10px
+  padding-right: 10px;
+  margin-top: 2%;
+  margin-bottom: 2%;
+
+}
+
+.video{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  justify-content: center;
+  margin-top: 10%
+
+
+}
+.c-site-header{
+  display: block;
+  justify-content: space-between;
+color: #1d3557;
+text-align: end;
+padding: 14px 16px;
+text-decoration:none;
+
+
+}
